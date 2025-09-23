@@ -2,7 +2,6 @@
 
 A modern and responsive interior design website built using **React.js**, **TailwindCSS**, and **Framer Motion**.  
 This website showcases different design services, artwork collections, and provides a contact form with map integration.  
-
 ---
 
 ## 🚀 Features
@@ -15,7 +14,7 @@ This website showcases different design services, artwork collections, and provi
 ---
 
 ## 🛠️ Tech Stack
-- [React.js](https://reactjs.org/)  
+- [React.js](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)  
 - [Framer Motion](https://www.framer.com/motion/)  
 - [React Icons](https://react-icons.github.io/react-icons/)  

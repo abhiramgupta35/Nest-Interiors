@@ -1,4 +1,3 @@
-import React from 'react'
 import Banner from '../components/banner/Banner'
 import AboutUs from '../components/AboutUs/AboutUs'
 import WhatWeDo from '../components/WhatWeDo/WhatWedo'

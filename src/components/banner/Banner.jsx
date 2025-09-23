@@ -21,10 +21,9 @@ function Banner() {
                     <h1 className="text-xl font-semibold">Nest Interior</h1>
                 </div>
                 <nav className="space-x-6 text-sm font-medium hidden md:flex">
-                    <a href="#" className="hover:text-yellow-400">Home</a>
-                    <a href="#" className="hover:text-yellow-400">About</a>
-                    <a href="#" className="hover:text-yellow-400">Gallery</a>
-                    <a href="#" className="hover:text-yellow-400">Contact</a>
+                    <a href="/" className="hover:text-yellow-400">Home</a>
+                    <a href="/gallery" className="hover:text-yellow-400">Gallery</a>
+                    <a href="/contactus" className="hover:text-yellow-400">Contact</a>
                 </nav>
             </header>
 
@@ -38,7 +37,7 @@ function Banner() {
                         Unique interior concepts & original artwork from Palakkad, Kerala.
                         Transforming homes and offices with style and creativity.
                     </p>
-                    <button className="bg-yellow-400 hover:bg-yellow-300 text-black px-6 py-3 rounded-full flex items-center gap-2 transition font-semibold">
+                    <button href="/gallery" className="bg-yellow-400 hover:bg-yellow-300 text-black px-6 py-3 rounded-full flex items-center gap-2 transition font-semibold">
                         See Our Projects <FiArrowRight />
                     </button>
                 </div>
