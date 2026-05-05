@@ -5,19 +5,19 @@ const services = [
   {
     title: "Residential Design",
     desc: "Residential Interior design is a multifaceted discipline that focuses on the functional and aesthetic aspects of a home’s interior. This process involves creating spaces that are both beautiful and livable, reflecting the inhabitants’ personal styles and meeting their day-to-day needs.",
-    img: "/Bedroom.jpg", // replace with your image path
+    img: "/Bedroom.webp", // replace with your image path
     accent: "text-yellow-400",
   },
   {
     title: "Office Design",
     desc: "It focuses on creating functional, aesthetically pleasing workspaces that enhance productivity, foster collaboration, and reflect the company’s brand identity. It involves a strategic approach to the arrangement, design, and decoration of office spaces.",
-    img: "/office.jpg", // replace with your image path
+    img: "/office.webp", // replace with your image path
     accent: "text-white",
   },
   {
     title: "Art works",
     desc: "Our collection of artworks reflects creativity, passion, and attention to detail. Each piece is thoughtfully designed to tell a story, capture emotions, and bring life to any space. From modern concepts to traditional inspirations, the works showcase a unique blend of imagination and craftsmanship.",
-    img: "/Art.jpg", // replace with your image path
+    img: "/Art.webp", // replace with your image path
     accent: "text-yellow-400",
   },
 ];

@@ -74,7 +74,7 @@ const GetInTouch = () => {
             project.
           </p>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d244.88935990206045!2d76.46591547063093!3d10.870121741950744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1757336609974!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d637.8623688371797!2d76.46510935373735!3d10.86993744480962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba879488d0f23f9%3A0x5d5f00e4ea70b5d0!2sNest%20interios%20%26%20art%20studio!5e0!3m2!1sen!2sin!4v1777967298599!5m2!1sen!2sin"
             width="100%"
             height="300"
             style={{ border: 0 }}

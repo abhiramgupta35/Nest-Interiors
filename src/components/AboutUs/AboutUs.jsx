@@ -53,7 +53,7 @@ const AboutUs = () => {
         >
           <div className="bg-white rounded-2xl shadow-xl overflow-hidden">
             <img
-              src="/people.png"
+              src="/avatar.webp"
               alt="Nest Interiors Founder"
               className="w-full object-cover"
             />

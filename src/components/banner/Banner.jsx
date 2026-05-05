@@ -5,7 +5,7 @@ function Banner() {
         <div className="relative min-h-screen text-white font-sans">
             <div className="absolute inset-0 z-0">
                 <img
-                    src="/hero.jpg"
+                    src="/hero.webp"
                     alt="Background"
                     className="w-full h-full object-cover brightness-[.5]"
                 />
@@ -14,7 +14,7 @@ function Banner() {
             <header className="z-10 relative flex justify-between items-center px-6 md:px-16 py-4">
                 <div className="flex items-center space-x-3">
                     <img
-                        src="/logo.png"
+                        src="/logo.webp"
                         alt="Nest Logo"
                         className="w-10 h-10 rounded-full"
                     />
